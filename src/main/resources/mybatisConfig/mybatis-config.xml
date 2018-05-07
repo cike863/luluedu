@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE configuration
+    PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+    "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+
+	<settings>
+		<!-- 禁止使用mybatis的缓存功能 -->
+		<setting name="cacheEnabled" value="false" />
+		<setting name="localCacheScope" value="STATEMENT" />
+
+		<setting name="useGeneratedKeys" value="true" />
+		<setting name="defaultExecutorType" value="REUSE" />
+		<setting name="jdbcTypeForNull" value="NULL" />
+	</settings>
+
+	<typeAliases>
+		<!-- 类型别名 -->
+		<typeAlias alias="Instant" type="java.time.Instant" />
+		<typeAlias alias="LocalDateTime" type="java.time.LocalDateTime" />
+		<typeAlias alias="LocalDate" type="java.time.LocalDate" />
+		<typeAlias alias="LocalTime" type="java.time.LocalTime" />
+		<typeAlias alias="OffsetDateTime" type="java.time.OffsetDateTime" />
+		<typeAlias alias="ZonedDateTime" type="java.time.ZonedDateTime" />
+	</typeAliases>
+
+	<typeHandlers>
+		<!-- 日期映射处理器 -->
+		<typeHandler handler="net.blissmall.dao.mybatis.typehandler.InstantTypeHandler" javaType="Instant" />
+		<typeHandler handler="net.blissmall.dao.mybatis.typehandler.LocalDateTimeTypeHandler" javaType="LocalDateTime" />
+		<typeHandler handler="net.blissmall.dao.mybatis.typehandler.LocalDateTypeHandler" javaType="LocalDate" />
+		<typeHandler handler="net.blissmall.dao.mybatis.typehandler.LocalTimeTypeHandler" javaType="LocalTime" />
+		<typeHandler handler="net.blissmall.dao.mybatis.typehandler.OffsetDateTimeTypeHandler" javaType="OffsetDateTime" />
+		<typeHandler handler="net.blissmall.dao.mybatis.typehandler.ZonedDateTimeHandler" javaType="ZonedDateTime" />
+		<!-- 枚举类映射处理器 -->
+	</typeHandlers>
+
+</configuration>

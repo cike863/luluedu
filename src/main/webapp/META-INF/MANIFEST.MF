@@ -1,0 +1,202 @@
+Manifest-Version: 1.0
+Class-Path: ssxingshou-yuding-common-1.0.7-SNAPSHOT.jar ssxingshou-yud
+ ing-core-1.0.7-SNAPSHOT.jar aopalliance-1.0.jar commons-codec-1.10.ja
+ r dom4j-1.6.1.jar xpp3_min-1.1.4c.jar log4j-1.2.17.jar commons-lang3-
+ 3.4.jar commons-beanutils-1.8.3.jar guava-18.0.jar commons-fileupload
+ -1.3.1.jar filters-2.0.235.jar ssxingshou-xsshop-common-1.0.0-SNAPSHO
+ T.jar ssxingshou-xsshop-core-1.0.0-SNAPSHOT.jar ssxingshou-appmodel-1
+ .0.10-SNAPSHOT.jar ssxingshou-dao-1.0.16-SNAPSHOT.jar druid-1.0.17.ja
+ r mysql-connector-java-5.1.38.jar commons-io-1.3.2.jar spring-context
+ -support-4.2.5.RELEASE.jar spring-jdbc-4.2.5.RELEASE.jar spring-tx-4.
+ 2.5.RELEASE.jar mybatis-3.3.1.jar mybatis-spring-1.2.4.jar ssxingshou
+ -weixin-sdk-1.0.0-SNAPSHOT.jar xstream-1.4.8.jar xmlpull-1.1.3.1.jar 
+ quartz-2.2.2.jar c3p0-0.9.1.1.jar quartz-jobs-2.2.2.jar spring-web-4.
+ 2.5.RELEASE.jar spring-aop-4.2.5.RELEASE.jar spring-beans-4.2.5.RELEA
+ SE.jar spring-context-4.2.5.RELEASE.jar spring-core-4.2.5.RELEASE.jar
+  commons-logging-1.2.jar spring-webmvc-4.2.5.RELEASE.jar spring-expre
+ ssion-4.2.5.RELEASE.jar ssxingshou-springutil-1.0.0-SNAPSHOT.jar slf4
+ j-api-1.7.18.jar logback-core-1.1.6.jar logback-classic-1.1.6.jar ssx
+ ingshou-utils-http-0.0.6-SNAPSHOT.jar ssxingshou-utils-1.0.5-SNAPSHOT
+ .jar commons-collections4-4.0.jar commons-validator-1.4.1.jar commons
+ -digester-1.8.1.jar poi-3.12.jar rome-1.5.1.jar rome-utils-1.5.1.jar 
+ jdom-2.0.2.jar fastjson-1.2.8.jar javax.servlet.jsp.jstl-api-1.2.1.ja
+ r taglibs-standard-impl-1.2.5.jar taglibs-standard-jstlel-1.2.5.jar t
+ aglibs-standard-spec-1.2.5.jar freemarker-2.3.23.jar jcl-over-slf4j-1
+ .7.18.jar kaptcha-0.0.9.jar shiro-core-1.2.4.jar shiro-web-1.2.4.jar 
+ shiro-ehcache-1.2.4.jar ehcache-core-2.5.0.jar shiro-spring-1.2.4.jar
+  ehcache-2.10.1.jar ssxingshou-xsshop-b2b-common-1.0.0-SNAPSHOT.jar d
+ ruid-1.0.22.jar mysql-connector-java-5.1.39.jar spring-context-suppor
+ t-4.3.0.RELEASE.jar spring-jdbc-4.3.0.RELEASE.jar spring-tx-4.3.0.REL
+ EASE.jar mybatis-3.4.0.jar mybatis-spring-1.3.0.jar ssxingshou-util-h
+ ttp-1.0.6-SNAPSHOT.jar ssxingshou-util-1.0.6-SNAPSHOT.jar bcprov-jdk1
+ 5on-1.54.jar commons-collections4-4.1.jar poi-3.14.jar poi-ooxml-3.14
+ .jar poi-ooxml-schemas-3.14.jar xmlbeans-2.6.0.jar stax-api-1.0.1.jar
+  curvesapi-1.03.jar rome-1.6.0.jar rome-utils-1.6.0.jar jdom2-2.0.6.j
+ ar fastjson-1.2.13.jar guava-19.0.jar commons-fileupload-1.3.2.jar sl
+ f4j-api-1.7.21.jar jcl-over-slf4j-1.7.21.jar ssxingshou-sdk-weixin-1.
+ 0.0-SNAPSHOT.jar xstream-1.4.9.jar ssxingshou-sdk-alipay-1.0.0-SNAPSH
+ OT.jar httpclient-4.5.2.jar httpcore-4.4.4.jar ssxingshou-sdk-yunpian
+ -1.0.0-SNAPSHOT.jar quartz-2.2.3.jar quartz-jobs-2.2.3.jar spring-web
+ -4.3.0.RELEASE.jar spring-aop-4.3.0.RELEASE.jar spring-beans-4.3.0.RE
+ LEASE.jar spring-context-4.3.0.RELEASE.jar spring-core-4.3.0.RELEASE.
+ jar spring-webmvc-4.3.0.RELEASE.jar spring-expression-4.3.0.RELEASE.j
+ ar logback-core-1.1.7.jar logback-classic-1.1.7.jar ssxingshou-produc
+ t-common-1.0.0-SNAPSHOT.jar ssxingshou-apimodel-1.0.0-SNAPSHOT.jar sp
+ ring-context-support-4.3.2.RELEASE.jar spring-jdbc-4.3.2.RELEASE.jar 
+ spring-tx-4.3.2.RELEASE.jar mybatis-3.4.1.jar fastjson-1.2.16.jar fre
+ emarker-2.3.25-incubating.jar spring-web-4.3.2.RELEASE.jar spring-aop
+ -4.3.2.RELEASE.jar spring-beans-4.3.2.RELEASE.jar spring-context-4.3.
+ 2.RELEASE.jar spring-core-4.3.2.RELEASE.jar spring-webmvc-4.3.2.RELEA
+ SE.jar spring-expression-4.3.2.RELEASE.jar druid-1.0.25.jar ssxingsho
+ u-product-core-1.0.0-SNAPSHOT.jar xfxb-util-http-1.0.0-SNAPSHOT.jar x
+ fxb-util-1.0.0-SNAPSHOT.jar fastjson-1.2.17.jar xfxb-springutil-1.0.0
+ -SNAPSHOT.jar xfxb-business-order-common-1.0.1-SNAPSHOT.jar xfxb-appm
+ odel-1.0.0-SNAPSHOT.jar xfxb-apimodel-1.0.0-SNAPSHOT.jar xfxb-dao-1.0
+ .0-SNAPSHOT.jar xfxb-appmodel-1.0.0-20160914.050705-1.jar xfxb-util-1
+ .0.0-20160914.050614-1.jar xfxb-apimodel-1.0.0-20160914.050718-1.jar 
+ xfxb-dao-1.0.0-20160914.050650-1.jar xfxb-springutil-1.0.0-20160914.0
+ 50555-1.jar xfxb-util-http-1.0.0-20160914.050629-1.jar xfxb-appmodel-
+ 1.0.0-20160919.031423-2.jar xfxb-util-1.0.0-20160919.031433-2.jar xfx
+ b-apimodel-1.0.0-20160919.031410-2.jar xfxb-dao-1.0.0-20160919.031944
+ -2.jar xfxb-util-http-1.0.0-20160919.031919-2.jar xfxb-appmodel-1.0.0
+ -20161030.053934-5.jar xfxb-util-1.0.0-20161030.053826-6.jar xfxb-api
+ model-1.0.0-20161102.162442-8.jar xfxb-dao-1.0.0-20161030.053953-7.ja
+ r xfxb-springutil-1.0.0-20161030.053859-4.jar druid-1.0.26.jar spring
+ -core-4.3.3.RELEASE.jar spring-beans-4.3.3.RELEASE.jar spring-express
+ ion-4.3.3.RELEASE.jar spring-context-4.3.3.RELEASE.jar spring-context
+ -support-4.3.3.RELEASE.jar spring-aop-4.3.3.RELEASE.jar spring-jdbc-4
+ .3.3.RELEASE.jar spring-tx-4.3.3.RELEASE.jar cglib-3.2.4.jar asm-5.1.
+ jar ant-1.9.6.jar ant-launcher-1.9.6.jar xfxb-util-http-1.0.0-2016103
+ 0.053843-5.jar fastjson-1.2.20.jar dubbo-2.5.3.jar javassist-3.15.0-G
+ A.jar zookeeper-3.4.8.jar jline-0.9.94.jar netty-3.10.6.Final.jar zkc
+ lient-0.8.jar slf4j-log4j12-1.7.21.jar spring-web-4.3.3.RELEASE.jar s
+ pring-webmvc-4.3.3.RELEASE.jar spring-data-redis-1.7.5.RELEASE.jar sp
+ ring-data-keyvalue-1.1.5.RELEASE.jar spring-data-commons-1.12.5.RELEA
+ SE.jar spring-oxm-4.2.8.RELEASE.jar jedis-2.9.0.jar commons-pool2-2.4
+ .2.jar blissmall-order-common-1.0.1-SNAPSHOT.jar spring-jdbc-4.3.4.RE
+ LEASE.jar xfxb-util-1.0.0-20161112.104615-7.jar spring-web-4.3.4.RELE
+ ASE.jar spring-aop-4.3.4.RELEASE.jar spring-beans-4.3.4.RELEASE.jar s
+ pring-context-4.3.4.RELEASE.jar spring-core-4.3.4.RELEASE.jar spring-
+ webmvc-4.3.4.RELEASE.jar spring-expression-4.3.4.RELEASE.jar spring-t
+ x-4.3.4.RELEASE.jar spring-context-support-4.3.4.RELEASE.jar blissmal
+ l-appmodel-1.0.0-SNAPSHOT.jar blissmall-apimodel-1.0.0-SNAPSHOT.jar b
+ lissmall-dao-1.0.0-SNAPSHOT.jar blissmall-util-http-1.0.0-SNAPSHOT.ja
+ r blissmall-util-1.0.0-SNAPSHOT.jar blissmall-springutil-1.0.0-SNAPSH
+ OT.jar blissmall-appmodel-1.0.0-20161121.023656-3.jar blissmall-util-
+ 1.0.0-20161118.075942-1.jar blissmall-apimodel-1.0.0-20161118.075842-
+ 1.jar blissmall-dao-1.0.0-20161118.075906-1.jar blissmall-springutil-
+ 1.0.0-20161118.075929-1.jar blissmall-util-http-1.0.0-20161118.080001
+ -1.jar blissmall-profiler-1.0.0-20161118.075919-1.jar aspectjrt-1.8.9
+ .jar aspectjweaver-1.8.9.jar blissmall-appmodel-1.0.0-20161122.095810
+ -6.jar blissmall-dao-1.0.0-20161122.054238-4.jar blissmall-order-comm
+ on-1.0.1.jar blissmall-appmodel-1.0.1.jar blissmall-apimodel-1.0.0.ja
+ r blissmall-dao-1.0.0.jar druid-1.0.27.jar blissmall-util-http-1.0.0.
+ jar blissmall-util-1.0.0.jar fastjson-1.2.21.jar blissmall-profiler-1
+ .0.0.jar blissmall-springutil-1.0.0.jar blissmall-appmodel-1.0.4.jar 
+ blissmall-apimodel-1.0.3.jar blissmall-appmodel-1.0.7-20170104.034534
+ -5.jar blissmall-util-1.0.1-SNAPSHOT.jar blissmall-apimodel-1.0.6-201
+ 61226.041344-12.jar blissmall-dao-1.0.1-20161212.053942-3.jar blissma
+ ll-springutil-1.0.1-20161212.053723-2.jar mybatis-3.4.2.jar mybatis-s
+ pring-1.3.1.jar blissmall-baseinfo-common-1.0.1.jar blissmall-sms-cli
+ ent-1.0.1.jar blissmall-sms-common-1.0.1.jar zookeeper-3.4.9.jar zkcl
+ ient-0.10.jar blissmall-baseinfo-client-1.0.1-SNAPSHOT.jar blissmall-
+ util-http-1.0.1-20161212.053601-2.jar commons-lang3-3.5.jar slf4j-api
+ -1.7.22.jar fastjson-1.2.23.jar jcl-over-slf4j-1.7.22.jar logback-cor
+ e-1.1.8.jar logback-classic-1.1.8.jar blissmall-profiler-1.0.1-201612
+ 12.053813-2.jar blissmall-baseinfo-common-1.0.1-SNAPSHOT.jar blissmal
+ l-sms-client-1.0.1-20170112.072044-2.jar blissmall-sms-common-1.0.1-2
+ 0170112.070838-1.jar blissmall-product-client-1.0.1-SNAPSHOT.jar blis
+ small-product-common-1.0.1-SNAPSHOT.jar blissmall-util-1.0.1-20170106
+ .071339-7.jar blissmall-appmodel-1.0.7-SNAPSHOT.jar blissmall-apimode
+ l-1.0.6-SNAPSHOT.jar blissmall-dao-1.0.1-SNAPSHOT.jar spring-jdbc-4.3
+ .5.RELEASE.jar blissmall-sms-client-1.0.1-SNAPSHOT.jar blissmall-sms-
+ common-1.0.1-SNAPSHOT.jar blissmall-baseinfo-client-1.0.1-20170117.03
+ 5409-6.jar blissmall-baseinfo-common-1.0.1-20170117.035403-6.jar blis
+ small-sysmanager-client-1.0.1-SNAPSHOT.jar blissmall-sysmanager-commo
+ n-1.0.1-SNAPSHOT.jar blissmall-util-http-1.0.1-SNAPSHOT.jar blissmall
+ -profiler-1.0.1-SNAPSHOT.jar spring-beans-4.3.5.RELEASE.jar spring-ao
+ p-4.3.5.RELEASE.jar spring-web-4.3.5.RELEASE.jar spring-context-4.3.5
+ .RELEASE.jar spring-core-4.3.5.RELEASE.jar spring-webmvc-4.3.5.RELEAS
+ E.jar spring-expression-4.3.5.RELEASE.jar spring-tx-4.3.5.RELEASE.jar
+  spring-oxm-4.3.5.RELEASE.jar spring-context-support-4.3.5.RELEASE.ja
+ r blissmall-springutil-1.0.1-SNAPSHOT.jar fastjson-1.2.24.jar blissma
+ ll-hessian-1.0.1-SNAPSHOT.jar blissmall-dubbo-hessian-1.0.1-SNAPSHOT.
+ jar netty-3.2.10.Final.jar druid-1.0.28.jar mysql-connector-java-5.1.
+ 40.jar spring-jdbc-4.3.6.RELEASE.jar bcprov-jdk15on-1.56.jar poi-3.15
+ .jar poi-ooxml-3.15.jar poi-ooxml-schemas-3.15.jar curvesapi-1.04.jar
+  rome-1.7.1.jar rome-utils-1.7.1.jar spring-beans-4.3.6.RELEASE.jar s
+ pring-aop-4.3.6.RELEASE.jar netty-3.10.5.Final.jar spring-web-4.3.6.R
+ ELEASE.jar spring-context-4.3.6.RELEASE.jar spring-core-4.3.6.RELEASE
+ .jar spring-webmvc-4.3.6.RELEASE.jar spring-expression-4.3.6.RELEASE.
+ jar spring-data-redis-1.8.0.RELEASE.jar spring-data-keyvalue-1.2.0.RE
+ LEASE.jar spring-data-commons-1.13.0.RELEASE.jar spring-tx-4.3.6.RELE
+ ASE.jar spring-oxm-4.3.6.RELEASE.jar spring-context-support-4.3.6.REL
+ EASE.jar logback-core-1.1.9.jar logback-classic-1.1.9.jar blissmall-a
+ ppmodel-1.0.7-20170123.091947-6.jar blissmall-apimodel-1.0.6-20170123
+ .091936-19.jar blissmall-dao-1.0.1-20170117.110730-5.jar blissmall-ba
+ seinfo-client-1.0.1-20170207.084259-9.jar blissmall-baseinfo-common-1
+ .0.1-20170207.084313-9.jar blissmall-util-1.0.1-20170121.102333-8.jar
+  blissmall-hessian-1.0.1-20170124.030138-4.jar blissmall-dubbo-hessia
+ n-1.0.1-20170124.015415-1.jar logback-core-1.2.1.jar logback-classic-
+ 1.2.1.jar qiniu-java-sdk-7.2.3.jar gson-2.8.0.jar happy-dns-java-0.1.
+ 4.jar spring-jdbc-4.3.7.RELEASE.jar blissmall-delivery-client-1.0.1-S
+ NAPSHOT.jar blissmall-delivery-common-1.0.1-SNAPSHOT.jar blissmall-co
+ upon-client-1.0.1-SNAPSHOT.jar blissmall-coupon-common-1.0.1-SNAPSHOT
+ .jar commons-validator-1.6.jar xml-apis-1.4.01.jar commons-beanutils-
+ 1.9.3.jar commons-collections-3.2.2.jar qiniu-java-sdk-7.2.4.jar okht
+ tp-3.5.0.jar okio-1.11.0.jar spring-beans-4.3.7.RELEASE.jar spring-ao
+ p-4.3.7.RELEASE.jar pingpp-java-2.1.2.jar spring-web-4.3.7.RELEASE.ja
+ r spring-context-4.3.7.RELEASE.jar spring-core-4.3.7.RELEASE.jar spri
+ ng-webmvc-4.3.7.RELEASE.jar spring-expression-4.3.7.RELEASE.jar sprin
+ g-tx-4.3.7.RELEASE.jar spring-oxm-4.3.7.RELEASE.jar spring-context-su
+ pport-4.3.7.RELEASE.jar druid-1.0.29.jar xercesImpl-2.10.0.jar slf4j-
+ api-1.7.25.jar jcl-over-slf4j-1.7.25.jar javassist-3.21.0-GA.jar fast
+ json-1.2.29.jar logback-core-1.2.2.jar logback-classic-1.2.2.jar mysq
+ l-connector-java-5.1.41.jar mybatis-3.4.4.jar blissmall-util-1.0.2-SN
+ APSHOT.jar xercesImpl-2.11.0.jar fastjson-1.2.31.jar zookeeper-3.4.10
+ .jar logback-core-1.2.3.jar logback-classic-1.2.3.jar freemarker-2.3.
+ 26-incubating.jar blissmall-appmodel-1.0.7.jar blissmall-apimodel-1.0
+ .6.jar blissmall-dao-1.0.1.jar spring-jdbc-4.3.8.RELEASE.jar blissmal
+ l-baseinfo-common-1.0.3.jar blissmall-baseinfo-client-1.0.3.jar bliss
+ mall-product-client-1.0.4.jar blissmall-util-http-1.0.1.jar blissmall
+ -util-1.0.2.jar blissmall-profiler-1.0.1.jar spring-beans-4.3.8.RELEA
+ SE.jar spring-aop-4.3.8.RELEASE.jar blissmall-hessian-1.0.1.jar bliss
+ mall-dubbo-hessian-1.0.1.jar spring-web-4.3.8.RELEASE.jar spring-cont
+ ext-4.3.8.RELEASE.jar spring-webmvc-4.3.8.RELEASE.jar spring-expressi
+ on-4.3.8.RELEASE.jar spring-tx-4.3.8.RELEASE.jar spring-oxm-4.3.8.REL
+ EASE.jar spring-context-support-4.3.8.RELEASE.jar spring-core-4.3.8.R
+ ELEASE.jar blissmall-springutil-1.0.1.jar springfox-swagger2-2.6.1.ja
+ r swagger-annotations-1.5.10.jar swagger-models-1.5.10.jar springfox-
+ spi-2.6.1.jar springfox-core-2.6.1.jar springfox-schema-2.6.1.jar spr
+ ingfox-swagger-common-2.6.1.jar springfox-spring-web-2.6.1.jar guava-
+ 21.0.jar classmate-1.3.1.jar spring-plugin-core-1.2.0.RELEASE.jar spr
+ ing-plugin-metadata-1.2.0.RELEASE.jar mapstruct-1.0.0.Final.jar sprin
+ gfox-swagger-ui-2.6.1.jar jackson-core-2.8.8.jar jackson-databind-2.8
+ .8.jar jackson-annotations-2.8.8.jar blissmall-appmodel-1.0.1-SNAPSHO
+ T.jar blissmall-apimodel-1.0.1-SNAPSHOT.jar druid-1.1.0.jar spring-jd
+ bc-4.3.9.RELEASE.jar commons-email-1.4.jar javax.mail-1.5.2.jar activ
+ ation-1.1.1.jar commons-lang3-3.6.jar commons-fileupload-1.3.3.jar ok
+ http-3.8.1.jar okio-1.13.0.jar spring-beans-4.3.9.RELEASE.jar spring-
+ aop-4.3.9.RELEASE.jar fastjson-1.2.34.jar spring-retry-1.1.5.RELEASE.
+ jar spring-web-4.3.9.RELEASE.jar spring-context-4.3.9.RELEASE.jar spr
+ ing-webmvc-4.3.9.RELEASE.jar spring-expression-4.3.9.RELEASE.jar spri
+ ng-data-commons-1.13.4.RELEASE.jar spring-tx-4.3.9.RELEASE.jar spring
+ -oxm-4.3.9.RELEASE.jar spring-context-support-4.3.9.RELEASE.jar sprin
+ g-core-4.3.9.RELEASE.jar blissmall-order-common-1.0.8.jar druid-1.1.2
+ .jar spring-jdbc-4.3.10.RELEASE.jar pom.xml blissmall-product-client-
+ 1.0.7.jar spring-beans-4.3.10.RELEASE.jar spring-aop-4.3.10.RELEASE.j
+ ar fastjson-1.2.35.jar pingpp-java-2.2.4.jar spring-data-commons-1.13
+ .6.RELEASE.jar spring-tx-4.3.10.RELEASE.jar spring-oxm-4.3.10.RELEASE
+ .jar spring-context-support-4.3.10.RELEASE.jar spring-core-4.3.10.REL
+ EASE.jar spring-context-4.3.10.RELEASE.jar spring-web-4.3.10.RELEASE.
+ jar spring-webmvc-4.3.10.RELEASE.jar spring-expression-4.3.10.RELEASE
+ .jar blissmall-sms-common-1.0.7.jar blissmall-baseinfo-common-1.0.8.j
+ ar blissmall-product-common-1.0.7.jar blissmall-sysmanager-common-1.0
+ .8.jar blissmall-sms-client-1.0.7.jar blissmall-baseinfo-client-1.0.8
+ .jar blissmall-sysmanager-client-1.0.8.jar blissmall-order-common-1.0
+ .10.jar blissmall-sms-client-1.0.10.jar blissmall-baseinfo-client-1.0
+ .10.jar blissmall-product-client-1.0.10.jar blissmall-sysmanager-clie
+ nt-1.0.10.jar blissmall-sms-common-1.0.10.jar blissmall-baseinfo-comm
+ on-1.0.10.jar blissmall-product-common-1.0.10.jar blissmall-sysmanage
+ r-common-1.0.10.jar
+
